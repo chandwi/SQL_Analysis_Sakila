@@ -1,6 +1,6 @@
 # SQL for Data Analysis
 
-**🧾 Objective: Use SQL queries to extract and analyze data from a sample ecommerce database**
+**🧾 Objective: Use SQL queries to extract and analyze data from a sample database**
 
 ### 📌 Query 1: Top 5 Longest Movies
 ```sql
